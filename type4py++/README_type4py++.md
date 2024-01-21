@@ -149,3 +149,7 @@ Description:
 - `--tp 1`: Considers Top-10 predictions for evaluation. For this argument, You can choose a positive integer between 1 and 10. [Default: 10]
 
 Use `type4py eval -h` to see other options.
+
+### 7. Model parameters
+
+We put our pretrained model parameters in `./data/type4py_complete_LSTM_max_pooling_model.pt`
